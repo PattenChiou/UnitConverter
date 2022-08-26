@@ -1,11 +1,10 @@
-package com.example.carrysystemconverter;
+package com.example.unitconverter;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
-import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
     EditText kg;
